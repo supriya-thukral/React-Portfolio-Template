@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cc5b6e01.css",
+    "main.js": "/static/js/main.12f96817.js",
+    "static/js/787.ba197ed0.chunk.js": "/static/js/787.ba197ed0.chunk.js",
+    "static/media/Deltahacks.png": "/static/media/Deltahacks.251a399c8ee317ed3709.png",
+    "static/media/FormaLogo.png": "/static/media/FormaLogo.64a824b866885dac800b.png",
+    "static/media/SupriyaThukral.jpg": "/static/media/SupriyaThukral.096fe02b4c816e1968f9.jpg",
+    "static/media/Logo.png": "/static/media/Logo.c4cfb95a279cf266c43b.png",
+    "index.html": "/index.html",
+    "main.cc5b6e01.css.map": "/static/css/main.cc5b6e01.css.map",
+    "main.12f96817.js.map": "/static/js/main.12f96817.js.map",
+    "787.ba197ed0.chunk.js.map": "/static/js/787.ba197ed0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc5b6e01.css",
+    "static/js/main.12f96817.js"
+  ]
+}
