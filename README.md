@@ -152,3 +152,5 @@ const App: React.FC = () => {
 
 export default App;
 ```
+
+Feel free to reach out if you have any questions or need further assistance with using the React Portfolio Template. Happy coding! 🚀
